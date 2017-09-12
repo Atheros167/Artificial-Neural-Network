@@ -17,3 +17,6 @@ The datafields included are
 12 Estimated Salary
 
 The Dependent variable is "Exited" - denoted whether the customer exited or not. 1 if he/she exited and 0 if not
+
+
+The code for hte model is available [here](https://github.com/Atheros167/Artificial-Neural-Network/blob/master/Churn_Model_ANN.ipynb)
